@@ -6,7 +6,7 @@
 
 <p align="center"><b>Freeform vehicular adventure.</b> Flying cars, giant volcanoes, and laser tag with your friends.</p>
 
-Mars Explorer is a multiplayer sci-fi sandbox that Aubrey Falconer built in 2008, at 18, from the forests of Northern Idaho. Players drove, hovered and flew across Martian worlds, chased each other through laser tag, and built worlds and vehicles of their own. This repository holds the full Unity source of the game.
+Mars Explorer is a multiplayer sci-fi experience that Aubrey Falconer built in 2008, at 18, from a school bus in the forests of Northern Idaho. This repository holds the full Unity source of the game.
 
 <p align="center">
   <img src="docs/readme/hover-warfare.jpg" alt="Hovercraft trading laser fire beside a Martian volcano" width="49%">
@@ -27,12 +27,12 @@ Mars Explorer is a multiplayer sci-fi sandbox that Aubrey Falconer built in 2008
 
 - Over 1 million total players.
 - More than 70,000 registered identities on the community forum.
-- The most popular macOS Dashboard widget game in the world for over a month.
-- A Special Mention in the 2008 Unity Awards.
+- Most popular macOS Dashboard widget game in the world for over a month.
+- Special mention in the 2008 Unity Awards.
 
 ## The community
 
-Mars Explorer grew into a community of thousands of creators and hundreds of thousands of explorers. Aubrey described it as "a universally-accessible virtual reality where all are welcome to gather, play, and create." Hundreds of teens found a passion for engineering, programming and industrial design there, and many turned it into a career.
+Mars Explorer grew into a community of thousands of creators and over a million explorers. Aubrey described it as "a universally-accessible virtual reality where all are welcome to gather, play, and create." Hundreds of teens learned software engineering and industrial design to build community worlds and vehicles. Many channeled the passions they discovered into thriving careers.
 
 ## Open source and retirement
 
